@@ -1,4 +1,6 @@
 test 2 for merge conflict
 merge conflict test1
 s
+
+insert
 test
